@@ -1,6 +1,6 @@
 const Telegraf = require('telegraf');
 var fs = require("fs");
-const bot = new Telegraf("API_KEY")
+const bot = new Telegraf("5234928009:AAGeQiP1qG8kMTGfJMMWeWkUKYJvSmrTzdg")
 
 const Timeouts = {
     HELLO: 1000,
